@@ -1,0 +1,21 @@
+[
+  {
+    "nombre": "Grid y Buttons",
+    "ruta": "/grid-buttons",
+    "icono": "grid"
+  },
+  {
+    "nombre": "Alert",
+    "ruta": "/alert",
+    "icono": "logo-apple-appstore"
+  },
+  {
+    "nombre": "Action Sheet",
+    "ruta": "/action-sheet",
+    "icono": "american-football"
+  },
+  {
+    "nombre": "Avatar",
+    "ruta": "/avatar",
+    "icono": "beaker"
+  }]
